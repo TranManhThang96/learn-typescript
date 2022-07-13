@@ -1,1 +1,2 @@
-# learn-typescript
+# Learn Typescript
+# Drag & Drop Project
