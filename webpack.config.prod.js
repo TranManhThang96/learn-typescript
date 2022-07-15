@@ -1,6 +1,5 @@
 const path = require('path');
 const CleanPlugin = require('clean-webpack-plugin');
-const { NONAME } = require('dns');
 
 module.exports = {
   mode: 'production',
